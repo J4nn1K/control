@@ -7,7 +7,6 @@ project(control)
 find_package(catkin REQUIRED COMPONENTS
   hippocampus_common
   hippocampus_msgs
-  path_planning
   dynamic_reconfigure
   mavros_msgs
 )
